@@ -1,2 +1,5 @@
 #!/bin/bash
-BETTY="Holberton"
+
+BEST="School"
+echo "The value of BEST is: $BEST"
+"
